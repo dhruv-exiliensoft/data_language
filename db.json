@@ -2,13 +2,22 @@
   "data": 
     {
       "en": {
-        "key": "value"
+        "hide_seek": "Hide and Seek",
+        "next": "Next",
+        "skip": "Skip",
+        "getStartedNow": "Get Started Now"
       },
       "sp": {
-        "key": "value"
+        "hide_seek": "Esconde-Esconde",
+        "next": "Próximo",
+        "skip": "Pular",
+        "getStartedNow": "Comece Agora"
       },
       "se": {
-        "key": "value"
+        "hide_seek": "اختباء والبحث",
+        "next": "التالي",
+        "skip": "تخطي",
+        "getStartedNow": "ابدأ الآن"
       }
       
     }
